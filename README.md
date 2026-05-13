@@ -1,6 +1,6 @@
 # Changelog
 
-## [v1.0.0] - 2026-05-13
+## [v0.2.0] - 2026-05-13
 ### Added
 - Local save slots (there are 3 of them)
 - Zooming in/out in-game and in the level selecton menu
