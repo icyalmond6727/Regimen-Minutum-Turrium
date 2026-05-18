@@ -16,7 +16,7 @@
 ### Misc
 - Code refactoring (a lot of it)
 - Optimizations
-*- One-month anniversary!*
+- *One-month anniversary!*
 
 ## [v0.3.0] - 2026-05-13
 ### Added
